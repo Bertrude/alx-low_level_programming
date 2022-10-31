@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - print out sizes of data types in c
- * code by BRP 
+ * main - print out sizes of data types in c 
  * Return: 0
 */
 int main(void)
